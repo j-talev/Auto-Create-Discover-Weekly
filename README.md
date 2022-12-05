@@ -1,1 +1,1 @@
-"# Auto-Create-Discover-Weekly" 
+First time working with an API. Automatically create a Spotify playlist and add tracks from Discover Weekly so that you don't lose them once they refresh. Credit: https://www.youtube.com/watch?v=-FsFT6OwE1A&t=998s/
